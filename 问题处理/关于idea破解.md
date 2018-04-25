@@ -2,7 +2,7 @@
 破解补丁为 Rover12421 开发，使用方法如下：
 
 下载jar包：[http://idea.lanyus.com/](http://idea.lanyus.com/) 并将 JetbrainsCrack-2.6.2.jar 放置到 D盘根目录。
-在 IntelliJ IDEA 安装目录中找到 idea.exe.vmoptions 和 idea64.exe.vmoptions ，以文本格式打开并同时在两个文件最后追加 -javaagent:D:/JetbrainsCrack-2.6.2.jar。
+在 IntelliJ IDEA 安装目录中找到 idea.exe.vmoptions 和 idea64.exe.vmoptions ，以文本格式打开并同时在两个文件最后追加 `-javaagent:D:/JetbrainsCrack-2.6.2.jar`
 启动 IntelliJ IDEA , 输入如下激活码激活(激活码中内容可修改)。
 
 ```
